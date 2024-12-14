@@ -14,7 +14,6 @@
 - [Installation](#installation)
 - [Usage](#usage)
 - [Features](#features)
-- [Results](#results)
 - [Configuration](#configuration)
 - [Contributors](#contributors)
 - [License](#license)
@@ -116,19 +115,6 @@ Both models are defined in `models.py`.
 - Customizable activation functions (ReLU, Leaky ReLU, ELU).
 - Data preprocessing and handling of missing values.
 - Visualization of accuracy trends.
-
----
-
-## Results
-
-### Comparison of Accuracy
-- **EEGNet**:
-  - Highest accuracy with ELU: **XX.XX%**.
-- **DeepConvNet**:
-  - Highest accuracy with Leaky ReLU: **XX.XX%**.
-
-### Training and Testing Accuracy Trends
-Plots generated using `matplotlib` showcase the training/testing accuracy across epochs.
 
 ---
 
