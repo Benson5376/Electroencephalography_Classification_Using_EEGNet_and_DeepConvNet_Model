@@ -8,7 +8,7 @@ Based on the provided files, here’s a draft for the README in Markdown format 
 
 ## Table of Contents
 - [Introduction](#introduction)
-- [Lab Objective](#lab-objective)
+- [Project Objective](#project-objective)
 - [Dataset](#dataset)
 - [Model Architectures](#model-architectures)
   - [EEGNet](#eegnet)
@@ -29,7 +29,7 @@ This project implements EEG classification models, specifically **EEGNet** and *
 
 ---
 
-## Lab Objective
+## Project Objective
 
 1. Implement **EEGNet** and **DeepConvNet** for EEG classification.
 2. Compare the performance of the models using **ReLU**, **Leaky ReLU**, and **ELU** activation functions.
