@@ -133,6 +133,14 @@ These parameters can be adjusted in `config.json`.
 
 ---
 
+## Results
+### Performance of EEGNet with Different Activation Functions
+![EEGNetGraph](https://github.com/Benson5376/Electroencephalography_Classification_Using_EEGNet_and_DeepConvNet_Model/blob/main/resources/eeg%20graph.PNG)
+### Performance of DeepConvNet with Different Activation Functions
+![DeepConvNetGraph](https://github.com/Benson5376/Electroencephalography_Classification_Using_EEGNet_and_DeepConvNet_Model/blob/main/resources/deepconv%20graph.PNG)
+### Performance of EEGNet with Weight Decay
+![WeightDecay](https://github.com/Benson5376/Electroencephalography_Classification_Using_EEGNet_and_DeepConvNet_Model/blob/main/resources/weight%20decay.PNG)
+
 ## Contributors
 - **Name:** Hua-En (Benson) Lee
 - **Email:** enen1015@gmail.com
