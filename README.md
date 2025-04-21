@@ -1,8 +1,16 @@
 
 
----
-
 # EEG Classification with EEGNet and DeepConvNet
+
+## Introduction
+
+This project implements EEG classification models, specifically **EEGNet** and **DeepConvNet**, using the BCI Competition III dataset. It explores the impact of different activation functions (ReLU, Leaky ReLU, and ELU) on model performance. The goal is to achieve high accuracy in classifying motor imagery EEG signals. 
+
+### EEGNet
+![EEGNet](https://github.com/Benson5376/Electroencephalography_Classification_Using_EEGNet_and_DeepConvNet_Model/blob/main/resources/EEGNet.PNG)
+
+### DeepConvNet
+![DeepConvNet](https://github.com/Benson5376/Electroencephalography_Classification_Using_EEGNet_and_DeepConvNet_Model/blob/main/resources/deepconvnet.PNG)
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -17,12 +25,6 @@
 - [Configuration](#configuration)
 - [Contributors](#contributors)
 - [License](#license)
-
----
-
-## Introduction
-
-This project implements EEG classification models, specifically **EEGNet** and **DeepConvNet**, using the BCI Competition III dataset. It explores the impact of different activation functions (ReLU, Leaky ReLU, and ELU) on model performance. The goal is to achieve high accuracy in classifying motor imagery EEG signals.
 
 ---
 
