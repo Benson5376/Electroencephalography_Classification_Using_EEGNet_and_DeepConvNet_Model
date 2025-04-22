@@ -24,7 +24,6 @@ This project implements EEG classification models, specifically **EEGNet** and *
 - [Features](#features)
 - [Configuration](#configuration)
 - [Contributors](#contributors)
-- [License](#license)
 
 ---
 
@@ -145,10 +144,4 @@ These parameters can be adjusted in `config.json`.
 - **Name:** Hua-En (Benson) Lee
 - **Email:** enen1015@gmail.com
 
----
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
